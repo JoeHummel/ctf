@@ -6,6 +6,6 @@
 
 ### Write Up Format
 
-Format for the write-ups will be in <challenge-type>-<challenge-title>
+Format for the write-ups will be in [challenge-type]-[challenge-title]
 
 
