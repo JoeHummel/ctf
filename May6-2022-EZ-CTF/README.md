@@ -1,6 +1,6 @@
 ## Summary
 
-**Date**: May 6th, 2022 - May 7th, 2022 \n
+**Date**: May 6th, 2022 - May 7th, 2022 <br>
 **CTF Time**: https://ctftime.org/event/1655
 
 
