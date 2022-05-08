@@ -24,3 +24,5 @@ We've logged in and got the first flag!
 ![](/May6-2022-EZ-CTF/img/ez-ctf-web3-solve.PNG)
 
 ### Resources
+
+[SQL Injection Cheat Sheet](https://www.invicti.com/blog/web-security/sql-injection-cheat-sheet/)
