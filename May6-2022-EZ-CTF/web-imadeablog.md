@@ -28,7 +28,7 @@ Lets try some Local File Inclusion and try to get /etc/passwd maybe
 
 This gives us the path so we could actually grab /etc/passwd with some directory traversal ../../../etc/passwd . That doesn't give us any flags or anything but let's see if there's anything with flag.php we can grab. I tried similar to see if there were any flag.php that we could grab but nothing came up. Thinking back to the hint from /flag.php with the keyword "filter". Some quick google searching came up with a way for us to use PHP filter to bypass if there are some restrictions and base64 encode it. 
 
-We edit our URL to: = http://ez.ctf.cafe:9999/blog-posts.php?file=php://filter/convert.base64-encode/resource=flag.php
+We edit our URL to: http://ez.ctf.cafe:9999/blog-posts.php?file=php://filter/convert.base64-encode/resource=flag.php
 
 ![](/May6-2022-EZ-CTF/img/ez-ctf-web-challmadeablog6.PNG) 
 
