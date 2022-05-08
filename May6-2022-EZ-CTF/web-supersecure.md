@@ -18,3 +18,9 @@ Seems vulnerable to SQLi and we have the password there.
 Let's make username evaluate to true and input our password:
 
 ![](/May6-2022-EZ-CTF/img/ez-ctf-web2-payload.PNG)
+
+We've logged in and got the first flag! 
+
+![](/May6-2022-EZ-CTF/img/ez-ctf-web3-solve.PNG)
+
+### Resources
